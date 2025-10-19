@@ -36,7 +36,7 @@ Lack of clarity in the existing reports made it hard to align sales strategy, ma
 ### 🖼️ Dashboard Overview
 The dashboard combines clear KPIs, intuitive visuals, and smooth navigation between pages — enabling business users to see how each sale and product connects to overall performance.
 
-![AdventureWorks Dashboard](Image/AdventureWorks_Advanced.png)
+![AdventureWorks Dashboard](Image/Dashboard_Overview.png)
 
 > 💡 Designed for both **executive overviews** and **analyst deep dives** — every page focuses on clarity, interactivity, and storytelling.
 
@@ -79,7 +79,7 @@ The dashboard combines clear KPIs, intuitive visuals, and smooth navigation betw
 ---
 
 ### 🔗 Interactive Dashboard
-👉 [View on NovyPro](https://project.novypro.com/) *(Insert your project link here)*  
+👉 [View on NovyPro][https://project.novypro.com/](https://project.novypro.com/SXubNX)*  
 
 ---
 
@@ -90,14 +90,6 @@ Business Intelligence Developer
 👤 Connect with me on LinkedIn: [Raafat Elrais](https://www.linkedin.com/in/raafat-elrais/)  
 
 💡 #OpenToWork — always open to collaborations, BI projects, and opportunities in **Data Analytics, Visualization, and Business Intelligence.**
-
----
-
-### 🎬 Recommendation for Sharing on LinkedIn
-Since this dashboard features **multi-page navigation and drill-throughs**,  
-📹 **Use a short video demo (20–30 seconds)** showing transitions between pages.  
-Then, upload **2–3 high-quality screenshots** in a carousel post.  
-This combo maximizes engagement and shows both your **technical depth** and **presentation skill**.
 
 ---
 
