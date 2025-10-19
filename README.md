@@ -37,6 +37,10 @@ Lack of clarity in the existing reports made it hard to align sales strategy, ma
 The dashboard combines clear KPIs, intuitive visuals, and smooth navigation between pages — enabling business users to see how each sale and product connects to overall performance.
 
 ![AdventureWorks Dashboard](Image/Dashboard_Overview.png)
+![AdventureWorks Dashboard](Image/Sales_Overview.png)
+![AdventureWorks Dashboard](Image/Product_Overview.png)
+![AdventureWorks Dashboard](Image/Drill_Through.png)
+
 
 > 💡 Designed for both **executive overviews** and **analyst deep dives** — every page focuses on clarity, interactivity, and storytelling.
 
@@ -79,7 +83,8 @@ The dashboard combines clear KPIs, intuitive visuals, and smooth navigation betw
 ---
 
 ### 🔗 Interactive Dashboard
-👉 [View on NovyPro][https://project.novypro.com/](https://project.novypro.com/SXubNX)*  
+📊 **Live Dashboard:** [**Click here**](https://app.powerbi.com/reportEmbed?reportId=e226606f-51ee-443c-97c2-b59c503e7f86&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde) 
+👉 [View on NovyPro](https://project.novypro.com/SXubNX)
 
 ---
 
