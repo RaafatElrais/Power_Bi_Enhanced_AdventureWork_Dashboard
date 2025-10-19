@@ -83,8 +83,8 @@ The dashboard combines clear KPIs, intuitive visuals, and smooth navigation betw
 ---
 
 ### 🔗 Interactive Dashboard
-📊 **Live Dashboard:** [**Click here**](https://app.powerbi.com/reportEmbed?reportId=e226606f-51ee-443c-97c2-b59c503e7f86&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde) 
-👉 [View on NovyPro](https://project.novypro.com/SXubNX)
+-📊 **Live Dashboard:** [**Click here**](https://app.powerbi.com/reportEmbed?reportId=e226606f-51ee-443c-97c2-b59c503e7f86&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde) 
+-👉 [View on NovyPro](https://project.novypro.com/SXubNX)
 
 ---
 
